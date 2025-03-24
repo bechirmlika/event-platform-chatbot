@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+mysql-connector-python
+langchain
+google-generativeai
+pinecone-client
+tiktoken
+pydantic-settings>=2.0,<3.0
+pydantic>=2.0,<3.0
